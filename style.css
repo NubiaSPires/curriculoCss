@@ -21,8 +21,7 @@ body {
         font-size: 22px;
         border-bottom: 3px solid;
         padding: 9px;
-        margin-top: 30px;
-        margin-bottom: 12px;
+        margin-top: 20 0 20 0;
     }
 
 
@@ -63,5 +62,7 @@ body {
 
     .menu a {
         padding: 0;
-        display: inline-block;   
+        display: inline-block;
+        margin-top: 5px;
+        margin-bottom: 0;
     }
